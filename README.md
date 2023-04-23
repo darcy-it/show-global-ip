@@ -1,2 +1,2 @@
-# show-global-ip
+# show-global-ip.sh
 AmazonLinuxからコマンドでグローバルIPを確認する
